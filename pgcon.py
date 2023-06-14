@@ -1,10 +1,10 @@
 import psycopg2
 import pandas as pd
 
-conn = psycopg2.connect(database="employee",
+conn = psycopg2.connect(database="your database",
                         host="localhost",
-                        user="postgres",
-                        password="08420",
+                        user="your user name",
+                        password="Your Password",
                         port="5432")
 
 
