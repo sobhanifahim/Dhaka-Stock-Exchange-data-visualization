@@ -25,5 +25,6 @@ Using beautiful soup, scrape data from the DSE website:
 
 # Power BI Dash Board
 
-![dse1](https://github.com/sobhanifahim/Dhaka-Stock-Exchange-data-visualization/assets/57230287/359f802b-cabb-4f26-b71e-3bbb44c75fd0)
-![dse2](https://github.com/sobhanifahim/Dhaka-Stock-Exchange-data-visualization/assets/57230287/15b62e1b-70ed-408e-a82d-7ba2af015e5b)
+![dse1](https://github.com/sobhanifahim/Dhaka-Stock-Exchange-data-visualization/assets/57230287/93cb6867-dcda-415c-8dba-00e1ababc799)
+
+![dse2](https://github.com/sobhanifahim/Dhaka-Stock-Exchange-data-visualization/assets/57230287/b0f1ee55-5a2e-4658-94b4-4bf37b1a7926)
