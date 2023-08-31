@@ -1,5 +1,5 @@
 # Dhaka-Stock-Exchange-data-visualization
-This project is a web scraping task that scraps data from the DSE (Dhaka Stock Exchange) website using the BeautifulSoup library. In CSV files, it stores trading data and other information about listed companies that it has retrieved.
+This project is a web scraping task that scraps data from the DSE (Dhaka Stock Exchange) website using the BeautifulSoup library. In CSV files, it stores trading data and other information about listed companies that it has retrieved. The task was followed using ETL(Extract Transform and Load) process
 # Requirements
 Using beautiful soup, scrape data from the DSE website:
 - Scrap the data from https://dsebd.org/company_listing.php
